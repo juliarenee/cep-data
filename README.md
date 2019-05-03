@@ -1,7 +1,7 @@
 # CEP and Title I analysis
 WRAL News analyzed the impact of adopting the Community Eligibility Provision, a federal program that provides public schools with universal free lunch, on Title I funding. Our analysis found that participating in CEP might address food insecurity, but it could cost schools tens of thousands of dollars in federal aid towards school supplies, improving curricula and hiring extra staff.
 
-READ THE FULL STORY HERE.
+Read the full story here.
 
 The Community Eligibility Provision can be a blessing for low-income public schools. The program was nationally launched in 2014 with a simple goal: Universal free lunch, no questions asked.
 
@@ -19,7 +19,28 @@ This poses a question: With such a seemingly perfect solution to addressing food
 
 A WRAL analysis found that one unitented consequence of adopting CEP is the risk of losing hundreds of thousands of dollars in Title I funding, putting two federal programs at odds.
 
+Read more about our findings here.
+
 # The Data
 WRAL used the following publicly available data from the North Carolina Department of Public Instruction:
 
 # Methodology
+Annual CEP eligibility data for 2015-2019 was obtained from the North Carolina Department of Public Instruction and filtered to Durham Public Schools. The data used to determine CEP participation in Durham Public Schools for the 2019-20 school year was obtained from James Keaten, the district's director of Child Nutrition Services. 
+
+Title I funding data was obtained from the North Carolina Department of Public Instruction [CCIP website](https://ccip.schools.nc.gov/Default.aspx?ccipSessionKey=636925140797247010). To obtain the data, go to: Search > Enter school district name or code > Select district > Funding > Funding Applications > Select year and "Last approvided funding application" > Consolidated > Title IA > School Allocations - PPA List.
+
+We then merged CEP eligibility and Title I funding data by year and school code.
+
+Title I funding is first allocated to school districts based on the number of low-income students. In Durham, like many other districts, those funds are then allocated to individual schools based on a ranking system: Schools are first ranked by the percentage of low income students, and then split into poverty bands based on those percentages. Schools in the same band receive the same allocation of Title I funding per pupil.
+
+This school year, TK bands for Title I.
+
+In CEP schools, the percentage of low-income students is determined by federal measures---primarily by participation in the Supplemental Nutrition Assistance Program, commonly known as food stamps---multiplied by 1.6. In non-CEP schools, the percentage of low-income students is the percentage of those who receive free and reduced price lunch.
+
+In order to estimate how CEP would impact Title I funding, we calculated how many schools would shift rankings had every school eligible for CEP participated in the program. To determine these shifts for the 2018-19 school year, we used 2019 CEP eligibility data and 2019 Title I school allocation data.
+
+For CEP eligibile, non-participating schools, we replaced the percentage of low-income students in the Title I allocation data with the federal percentage of low-income students multiplied by 1.6. We then recalculated school rankings and counted how many shifted ranks.
+
+Assuming the same number of schools would be placed in each poverty band and that each band would receive the same allocation of Title I funding per pupil, we recalculated the amount of Title I funding each school would receive.
+
+TK results.
