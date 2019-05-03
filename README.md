@@ -33,13 +33,13 @@ We then merged CEP eligibility and Title I funding data by year and school code.
 
 Title I funding is first allocated to school districts based on the number of low-income students. In Durham, like many other districts, those funds are then allocated to individual schools based on a ranking system: Schools are first ranked by the percentage of low income students, and then split into poverty bands based on those percentages. Schools in the same band receive the same allocation of Title I funding per pupil. The 2018-19 Title I poverty bands and per pupil allocations are roughly:
 
-Lower Limit | Upper Limit | Allocation Per Pupil
------------ | ----------- | --------------------
-\[0.87 | 1\] | $490
-\[0.79 | 0.87\) | $480
-\[0.63 | 0.79\) | $470
-\[0.40 | 0.63\) | $490
-\[0| 0.40\) | $0
+Lower Limit (%) | Upper Limit (%) | Allocation Per Pupil
+--------------- | --------------- | --------------------
+0.87 | 1 | $490
+0.79 | 0.87 | $480
+0.63 | 0.79 | $470
+0.40 | 0.63 | $460
+0| 0.40 | $0
 
 In CEP schools, the percentage of low-income students is determined by federal measures---primarily by participation in the Supplemental Nutrition Assistance Program, commonly known as food stamps---multiplied by 1.6. In non-CEP schools, the percentage of low-income students is the percentage of those who receive free and reduced price lunch.
 
