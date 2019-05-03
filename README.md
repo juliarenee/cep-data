@@ -1,4 +1,4 @@
-# Community Eligibility Provision and Title I funding competition analysis
+# CEP and Title I analysis
 WRAL News analyzed the impact of adopting the Community Eligibility Provision, a federal program that provides public schools with universal free lunch, on Title I funding. Our analysis found that participating in CEP might address food insecurity, but it could cost schools tens of thousands of dollars in federal aid towards school supplies, improving curricula and hiring extra staff.
 
 READ THE FULL STORY HERE.
