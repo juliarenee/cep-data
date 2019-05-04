@@ -25,6 +25,7 @@ Read more about our findings here.
 WRAL used the following publicly available data from the North Carolina Department of Public Instruction:
 * CEP eligibility, 2014-15 through 2018-19
 * Title I allocations, 2018-19
+
 We also obtained school lunch debt data from the 2010-11 through 2017-18 school years from James Keaten, Durham's director of Child Nutrition Services.
 
 # Methodology
