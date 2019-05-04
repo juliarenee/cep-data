@@ -40,3 +40,4 @@ rsconnect/
 
 # Jupyter ignore
 *.ipynb_checkpoints
+*checkpoint.ipynb
