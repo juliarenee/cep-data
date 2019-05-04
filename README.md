@@ -1,28 +1,31 @@
 # CEP and Title I analysis
-WRAL News analyzed the impact of adopting the Community Eligibility Provision, a federal program that provides public schools with universal free lunch, on Title I funding. Our analysis found that participating in CEP might address food insecurity, but it could cost schools tens of thousands of dollars in federal aid towards school supplies, improving curricula and hiring extra staff.
+WRAL News analyzed the impact of adopting the Community Eligibility Provision, a federal program that provides public schools with universal free lunch, on Title I funding. Our analysis found that participating in CEP might address food insecurity, but it could cost schools thousands of dollars in federal aid towards school supplies, improving curricula and hiring extra staff.
 
 Read the full story here.
 
-The Community Eligibility Provision can be a blessing for low-income public schools. The program was nationally launched in 2014 with a simple goal: Universal free lunch, no questions asked.
+The Community Eligibility Provision was launched nationally in 2014 with a simple goal: Universal free lunch, no questions asked. One Durham principal said the program has been a blessing for her school.
 
-Participating in CEP increases the number of children eating, boosts student achievement and reduces suspension rates. Adopting CEP also means that families no longer need to file for free and reduced price lunch, which can be a tedious process. And despite previously having been among those with the most unpaid meals, all 13 Durham public schools that now participate in the CEP program have zero debt.
+Research shows that participating in CEP increases the number of children eating, boosts student achievement and reduces suspension rates. Adopting CEP also means that families no longer need to file for free and reduced price lunch, which can be a tedious process.
 
-But last year, Durham Public Schools still racked up over $209,000 in school lunch debt, or roughly 72,000 meals. It's the most the district has seen in the past eight years. And when families can't or won't pay their tab, the school district foots the bill-taking away from funds that could go towards school supplies or additional programming.
+Despite previously having been among those with the most unpaid meals, all 13 Durham public schools that now participate in the CEP program have zero debt.
 
-That debt is concentrated among a small group of low-income schools, where a majority of students are Black or Hispanic: just 23 percent of schools accounted for 40 percent of all unpaid meals.
+But last year, Durham Public Schools still managed to rack up over $209,000 in school lunch debt. That’s roughly 72,000 unpaid lunches, over four times the [average starting teacher salary](https://www.dpsnc.net/cms/lib/NC01911152/Centricity/Domain/77/2018-19_Certified_Salary_Supplement_Packet_06282018.pdf), and the most debt the district has seen in the past eight years. And when families can't or won't pay their tab, the school district foots the bill-taking away from funds that could go towards school supplies or additional programming.
 
-All those schools were all eligible to participate in the Community Eligibility Provision.
+That debt is concentrated among a small group of low-income schools: just 23 percent of schools accounted for 40 percent of all unpaid meals. They were all eligible to participate in the Community Eligibility Provision.
 
-Last year, only 12 of the 25 schools eligible for CEP participated the program. If they had adopted the provision, school lunch debt could have dropped by up to $80,000.
+If they had adopted the provision, school lunch debt could have dropped by up to $80,000.
 
-This poses a question: With such a seemingly perfect solution to addressing food insecurity and mitigating debt, why aren't these schools participating?
+This poses a question: With such a seemingly perfect solution to addressing food insecurity and mitigating debt, why are only half of the schools eligible for CEP participating?
 
-A WRAL analysis found that one unitented consequence of adopting CEP is the risk of losing hundreds of thousands of dollars in Title I funding, putting two federal programs at odds.
+A WRAL analysis found that one unitented consequence of adopting CEP is the risk of losing thousands of dollars in Title I funding, putting two federal programs at odds.
 
 Read more about our findings here.
 
 # The Data
 WRAL used the following publicly available data from the North Carolina Department of Public Instruction:
+* CEP eligibility, 2014-15 through 2018-19
+* Title I allocations, 2018-19
+We also obtained school lunch debt data from the 2010-11 through 2017-18 school years from James Keaten, Durham's director of Child Nutrition Services.
 
 # Methodology
 Annual CEP eligibility data for 2015-2019 was obtained from the North Carolina Department of Public Instruction and filtered to Durham Public Schools. The data used to determine CEP participation in Durham Public Schools for the 2019-20 school year was obtained from James Keaten, the district's director of Child Nutrition Services. 
@@ -35,11 +38,11 @@ Title I funding is first allocated to school districts based on the number of lo
 
 Lower Limit | Upper Limit | Allocation Per Pupil
 ----------- | ----------- | --------------------
-0.87 | 1 | $490
-0.79 | 0.87 | $480
-0.63 | 0.79 | $470
-0.40 | 0.63 | $460
-0| 0.40 | $0
+0.88 | 1 | $477
+0.82 | 0.88 | $464
+0.61 | 0.82 | $450
+0.38 | 0.61 | $440.54
+0 | 0.38 | $0
 
 In CEP schools, the percentage of low-income students is determined by federal measures---primarily by participation in the Supplemental Nutrition Assistance Program, commonly known as food stamps---multiplied by 1.6. In non-CEP schools, the percentage of low-income students is the percentage of those who receive free and reduced price lunch.
 
@@ -51,4 +54,4 @@ Assuming the same number of schools would be placed in each poverty band and tha
 
 If all 12 Durham public schools eligible but not participating in CEP had adopted the program this year, 16 schools in the district would have shifted ranks, according to our analysis.
 
-Our findings also estimate that some schools could lose over $10,000 in Title I funding all schools eligible for CEP participated.
+Our findings also estimate that at least one school could lose over $30,000 in Title I funding had all schools eligible for CEP participated.
