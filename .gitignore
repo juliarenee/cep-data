@@ -37,3 +37,6 @@ rsconnect/
 
 # Mac viewing file
 *.DS_Store
+
+# Jupyter ignore
+*.ipynb_checkpoints
