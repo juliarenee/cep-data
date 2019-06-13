@@ -47,7 +47,7 @@ Lower Limit | Upper Limit | Allocation Per Pupil
 
 In CEP schools, the percentage of low-income students is determined by federal measures---primarily by participation in the Supplemental Nutrition Assistance Program, commonly known as food stamps---multiplied by 1.6. In non-CEP schools, the percentage of low-income students is the percentage of those who receive free and reduced price lunch.
 
-In order to estimate how CEP would impact Title I funding, we calculated how many schools would shift rankings had every school eligible for CEP participated in the program. To determine these shifts for the 2018-19 school year, we used 2019 CEP eligibility data and 2019 Title I school allocation data.
+In order to estimate how CEP would impact Title I funding, we calculated how many schools would shift rankings had every school eligible for CEP participated in the program. To determine these shifts for the 2018-19 school year, we used 2018 CEP eligibility data and 2019 Title I school allocation data.
 
 For CEP eligibile, non-participating schools, we replaced the percentage of low-income students in the Title I allocation data with the federal percentage of low-income students multiplied by 1.6. We then recalculated school rankings and counted how many shifted ranks.
 
